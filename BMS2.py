@@ -62,6 +62,7 @@ def create_account():
 
 
 # ---------------------------     SHOW CUSTOMERS    -------------------------------------------------------------------
+
 def show_customer():
     query = "select customer_id, name, nic from customer"
     cursor.execute(query)
