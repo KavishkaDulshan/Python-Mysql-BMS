@@ -1,0 +1,1 @@
+This is a basic Bank managment System developed with python and mysql. This is not a perfect program because this project is done by me for education purpose. I was able to learn mysql and python as a beginer from doing this project. :)
